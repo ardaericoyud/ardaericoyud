@@ -29,3 +29,14 @@ Saya memiliki latar belakang dalam Teknik Industri dari Institut Teknologi Telko
 Jangan ragu untuk berhubungan jika Anda tertarik berkolaborasi atau berbagi pengetahuan terkait data dan analisis. Saya senang berkenalan dengan rekan-rekan sejawat dan terbuka untuk proyek-proyek menarik!
 
 Happy coding! 🚀
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/ardaericoyud">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ardaericoyud&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ardaericoyud&layout=compact&layout=compact&theme=algolia"/>
+</a>
+</p>
+
+[![Grade](https://img.shields.io/static/v1?label=Grade&message=A%2B&color=green&style=flat)](https://shields.io/)
+
