@@ -1,16 +1,31 @@
-### Hi there 👋
+# Arda Erico Yuda
 
-<!--
-**ardaericoyud/ardaericoyud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🎓 Lulusan Teknik Industri di Institut Teknologi Telkom Surabaya  
+📊 Seorang Data Analyst
 
-Here are some ideas to get you started:
+Saya memiliki latar belakang dalam Teknik Industri dari Institut Teknologi Telkom Surabaya. Saat ini, saya fokus sebagai seorang Data Analyst, memanfaatkan keterampilan analisis data untuk mendapatkan wawasan yang berarti dan mendukung pengambilan keputusan yang informasional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Keterampilan
+
+- Analisis Data
+- Pengolahan Data
+- Visualisasi Data
+- Python
+- SQL
+- Machine Learning (ML)
+
+## Proyek Terbaru
+
+1. **Analisis Kinerja Penjualan:** Menggunakan Python dan Pandas untuk menganalisis data penjualan dan memberikan rekomendasi untuk meningkatkan kinerja.
+
+2. **Prediksi Churn Pelanggan:** Menerapkan model machine learning untuk memprediksi potensi churn pelanggan dan mengembangkan strategi retensi.
+
+## Kontak
+
+- LinkedIn: [Arda Erico Yuda](https://www.linkedin.com/in/ardaericoyud)
+- Email: [ardaericoyudha00@email.com]
+- Portfolio: [Portfolio Saya](https://www.portfoliosaya.com)
+
+Jangan ragu untuk berhubungan jika Anda tertarik berkolaborasi atau berbagi pengetahuan terkait data dan analisis. Saya senang berkenalan dengan rekan-rekan sejawat dan terbuka untuk proyek-proyek menarik!
+
+Happy coding! 🚀
